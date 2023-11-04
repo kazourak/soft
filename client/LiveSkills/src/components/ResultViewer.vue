@@ -16,23 +16,28 @@ function endTest() {
 defineProps({
   communication: {
     type: Number,
-    required: true
+    required: true,
+    default: 0
   },
   resolution: {
     type: Number,
-    required: true
+    required: true,
+    default: 0
   },
   empathie: {
     type: Number,
-    required: true
+    required: true,
+    default: 0
   },
   gestion: {
     type: Number,
-    required: true
+    required: true,
+    default: 0
   },
   prise: {
     type: Number,
-    required: true
+    required: true,
+    default: 0
   }
 })
 

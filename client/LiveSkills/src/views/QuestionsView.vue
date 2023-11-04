@@ -98,7 +98,7 @@ export default {
         skillstab[2][this.getIndex(this.empathie_value)] = 1;
         skillstab[3][this.getIndex(this.gestion_value)] = 1;
         skillstab[4][this.getIndex(this.prise_value)] = 1;
-        axios.post('http://localhost:3000/add', {
+        axios.post('http://34.16.130.215:3000/add', {
           skills: skillstab
         })
             .then(response => {
