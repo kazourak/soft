@@ -47,8 +47,8 @@ defineProps({
 <template>
   <div class="result-section">
     <div class="container">
-      <ResultComponent v-if="state === 0" title="Communication" :value="this.communication"/>
-      <ResultComponent v-if="state === 1" title="Résolution de problèmes" :value="this.resolution"/>
+      <ResultComponent v-if="state === 0" title="Communication" :value="communication"/>
+      <ResultComponent v-if="state === 1" title="Résolution de problèmes" :value="resolution"/>
       <ResultComponent v-if="state === 2" title="Empathie" :value="this.empathie"/>
       <ResultComponent v-if="state === 3" title="Gestion du changement" :value="this.gestion"/>
       <ResultComponent v-if="state === 4" title="Prise de décision" :value="this.prise"/>

@@ -7,7 +7,6 @@
     <list default="true" id="0e4ad24f-2a86-4d83-918b-f0478d926c2d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/LiveSkills/src/components/ResultViewer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/LiveSkills/src/components/ResultViewer.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/LiveSkills/src/views/QuestionsView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/LiveSkills/src/views/QuestionsView.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +84,7 @@
       <workItem from="1698407455137" duration="113000" />
       <workItem from="1698659823864" duration="608000" />
       <workItem from="1698744296132" duration="645000" />
-      <workItem from="1699094518868" duration="10988000" />
+      <workItem from="1699094518868" duration="11561000" />
     </task>
     <servers />
   </component>
